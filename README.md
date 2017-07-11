@@ -1,8 +1,6 @@
 DAJIE Core
 ==============
-* [Getting Started](#getting-started)
-
-DAJIE Core is the DAJIE blockchain implementation and command-line interface.
+DAJIE Core is the DAJIE blockchain implementation.
 
 Getting Started
 ---------------
