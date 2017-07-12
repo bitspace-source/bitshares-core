@@ -21,11 +21,11 @@ if( GRAPHENE_DISABLE_UNITY_BUILD )
         db_update.cpp
         db_witness_schedule.cpp
       )
-   message( STATUS "Graphene database unity build disabled" )
+   message( STATUS "DAJIE database unity build disabled" )
 else( GRAPHENE_DISABLE_UNITY_BUILD )
    set( GRAPHENE_DB_FILES
         database.cpp )
-   message( STATUS "Graphene database unity build enabled" )
+   message( STATUS "DAJIE database unity build enabled" )
 endif( GRAPHENE_DISABLE_UNITY_BUILD )
 
 ## SORT .cpp by most likely to change / break compile

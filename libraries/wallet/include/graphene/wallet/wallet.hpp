@@ -558,7 +558,7 @@ class wallet_api
        */
       string  gethelp(const string& method)const;
 
-      /** Loads a specified Graphene wallet.
+      /** Loads a specified DAJIE wallet.
        *
        * The current wallet is closed before the new wallet is loaded.
        *
@@ -853,7 +853,7 @@ class wallet_api
 
       /** Place a limit order attempting to sell one asset for another.
        *
-       * Buying and selling are the same operation on Graphene; if you want to buy DAJIE 
+       * Buying and selling are the same operation on DAJIE; if you want to buy DAJIE 
        * with EUR, you should sell EUR for DAJIE.
        *
        * The blockchain will attempt to sell the \c symbol_to_sell for as

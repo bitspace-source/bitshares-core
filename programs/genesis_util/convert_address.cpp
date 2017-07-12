@@ -23,7 +23,7 @@
  */
 
 /**
- * Convert BTC / PTS addresses to a Graphene address.
+ * Convert BTC / PTS addresses to a DAJIE address.
  */
 
 #include <graphene/chain/pts_address.hpp>
