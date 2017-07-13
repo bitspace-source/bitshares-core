@@ -1,5 +1,5 @@
 {
-  "initial_timestamp": "2017-07-12T14:30:00",
+  "initial_timestamp": "2017-07-13T11:00:00",
   "max_core_supply": "1000000000000000",
   "initial_parameters": {
     "current_fees": {
@@ -251,7 +251,7 @@
       "active_key": "DAJIE7fc2dwBojQyd4YnVNFnTbXPsHwDwckcCby6J8jJ2Ao3bTt1fh2",
       "is_lifetime_member": true
     },{
-      "name": "bitshares",
+      "name": "bitspace",
       "owner_key": "DAJIE8M93988DyfnF2v77UpEFdFN7VMoVp3FQhBph14uKNrXuwzvHRp",
       "active_key": "DAJIE8M93988DyfnF2v77UpEFdFN7VMoVp3FQhBph14uKNrXuwzvHRp",
       "is_lifetime_member": false
