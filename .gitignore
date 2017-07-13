@@ -12,23 +12,39 @@ moc_*
 genesis.json
 hardfork.hpp
 
+libraries/egenesis/egenesis_brief.cpp
+libraries/egenesis/egenesis_full.cpp
+libraries/egenesis/embed_genesis
+
 libraries/utilities/git_revision.cpp
 
 libraries/wallet/Doxyfile
 libraries/wallet/api_documentation.cpp
 libraries/wallet/doxygen
 
+programs/build_helpers/cat-parts
+programs/build_helpers/member_enumerator
+
 programs/cli_wallet/cli_wallet
-programs/js_operation_serializer/js_operation_serializer
+
+programs/debug_node/debug_node
+programs/delayed_node/delayed_node
 programs/witness_node/witness_node
+
+programs/genesis_util/convert_address
+programs/genesis_util/genesis_update
+programs/genesis_util/get_dev_key
+
+programs/js_operation_serializer/js_operation_serializer
+
+programs/size_checker/size_checker
 
 tests/app_test
 tests/chain_bench
 tests/chain_test
 tests/intense_test
 tests/performance_test
-
-doxygen
+tests/generate_empty_blocks/generate_empty_blocks
 
 wallet.json
 witness_node_data_dir
